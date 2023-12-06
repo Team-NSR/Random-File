@@ -2,5 +2,5 @@
 # cd Random-File
 # python best.cpython-311.pyc
 
-# Enjoy my command and follow me for more best commands😊
+# Enjoy my command and follow me for best commands😊
 # Contact info: Whatsapp 👉 +994406013941
